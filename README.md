@@ -1,7 +1,7 @@
 # ArmedRobot
 Robot with Mecanum Wheels using Arduino.
 
-This project consists of building a robot controlled through a pre-made phone app from HTM through MIT App Inventor.
+This project consists of building a robot controlled through a pre-made phone app from HTM through MIT App Inventor. We later sold the robot for a nice profit :)
 
 
 # Robot Diagram
