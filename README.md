@@ -1,5 +1,5 @@
 # ArmedRobot
-Robot with Mecanum Wheels using Arduino.
+Robot with Mecanum Wheels using Arduino and detachable/attachable casing with arm.
 
 This project consists of building a robot controlled through a pre-made phone app from HTM through MIT App Inventor. We later sold the robot for a nice profit :)
 
@@ -35,7 +35,7 @@ This project also requires buying and soldering a PCB using this premade design 
 
 
 
-Image of mecanum wheel robot:
+Image of mecanum wheel robot with no casing/arm:
 
 ![image](https://user-images.githubusercontent.com/96901042/178681987-d488da17-8039-4af8-bd2a-f6012d44897f.png)
 
