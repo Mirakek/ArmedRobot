@@ -35,11 +35,6 @@ This project also requires buying and soldering a PCB using this premade design 
 
 
 
-Image of mecanum wheel robot with no casing/arm:
-
-![image](https://user-images.githubusercontent.com/96901042/178681987-d488da17-8039-4af8-bd2a-f6012d44897f.png)
-
-
 HWT SOLIDWORKS Parametric Model of Full Robot:
 
 ![image](https://user-images.githubusercontent.com/96901042/178683337-b1fdd056-d039-46af-a833-83b135dd8954.png)
